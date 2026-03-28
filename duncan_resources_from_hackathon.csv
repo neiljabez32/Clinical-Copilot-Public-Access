@@ -1,0 +1,11 @@
+resource_name,category,conditions,min_age,max_age,region,referral_required,self_referral,phone,description,referral_notes
+Duncan Child Development Centre,Pediatrics,"Child development, learning disability, autism",0,18,Duncan,Referral Required,Yes,250-555-1001,Child development assessments and therapy,Fax referral form required
+Cowichan Mental Health & Substance Use,Mental Health,"Depression, anxiety, crisis",12,99,Duncan,Referral Not Required,Yes,250-555-1002,Mental health counselling and psychiatry,Self referral allowed
+Cowichan Valley Primary Care Network,Primary Care,"Chronic disease, diabetes, hypertension",0,99,Duncan,Referral Required,Yes,250-555-1003,Chronic disease management,Physician referral
+Island Health Pediatric Clinic,Pediatrics,"Asthma, pediatric illness",0,18,Duncan,Referral Required,Yes,250-555-1004,Pediatric specialist care,Fax referral
+Duncan Seniors Support Services,Seniors,"Mobility, home support",65,99,Duncan,Referral Not Required,Yes,250-555-1005,Home support and senior services,Self referral
+Cowichan Valley Youth Services,Youth,"Anxiety, depression, youth",12,24,Duncan,Referral Not Required,Yes,250-555-1006,Youth counseling services,Self referral
+Cowichan Diabetes Education Centre,Chronic Disease,Diabetes education,18,99,Duncan,Referral Required,Yes,250-555-1007,Diabetes education,Referral required
+Cowichan Respiratory Clinic,Respiratory,"Asthma, COPD",18,99,Duncan,Referral Required,Yes,250-555-1008,Respiratory services,Referral required
+Cowichan Pain Clinic,Pain,"Back pain, chronic pain",18,99,Duncan,Referral Required,Yes,250-555-1009,Pain management clinic,Referral required
+Cowichan Women's Health,Women's Health,"Pregnancy, women's health",16,60,Duncan,Referral Required,Yes,250-555-1010,Women's health clinic,Referral required
